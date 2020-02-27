@@ -5,7 +5,7 @@
   <Author />
   <AccountingSystemName>Template - IG 2.0 Shopify to DH</AccountingSystemName>
   <AccountingSystemID>1111112043</AccountingSystemID>
-  <PlugInVersion>01.00.00.03</PlugInVersion>
+  <PlugInVersion>01.00.00.03a</PlugInVersion>
   <AppLevel>2</AppLevel>
   <PlugInNote>v1.0.0.3 contains Shopify Product to DH mapping without custom Inventory row mappings
 v1.0.0.4 contains Shopify Product to DH mapping with custom Inventory row mappings
